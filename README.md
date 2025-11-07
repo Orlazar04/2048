@@ -3,7 +3,7 @@
 An imitation of the popular mobile puzzle game 2048, implemented in Java using the Swing GUI framework.
 
 ## Repository Configuration
-| Folder | Contents |
+| Path | Contents |
 |--------|-----------|
 | `Code/` | Java source files for the game |
 | `Images/` | Preview screenshots of the game |
